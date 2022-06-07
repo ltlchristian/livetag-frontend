@@ -1,0 +1,78 @@
+.navbar-perso {
+  background-color: rgb(1, 80, 104);
+}
+
+.navbar-perso > * {
+  width: 100%;
+}
+
+.navbar-perso-second > * {
+  width: 60%;
+}
+
+.nav-links {
+  font-size: 20px;
+}
+
+.home-link,
+.project-link {
+  color: white;
+  text-decoration: none;
+}
+.project-link-evenement-select {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.project-link-second {
+  font-size: 18px;
+  color: rgb(73, 72, 72);
+  text-decoration: none;
+}
+
+.nav-links a:hover {
+  color: rgb(255, 255, 255);
+}
+
+.logo-title {
+  text-shadow: rgb(255, 255, 255) 0.1em 0.1em 0.2em;
+}
+
+.logo {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.logo-img {
+  height: 40px;
+  width: 40px;
+}
+
+.logo-navbar {
+  background-image: url("../../logo-livetag.png");
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  width: 154px;
+  height: 40px;
+}
+
+.titre-evenement {
+  background-color: white;
+  border: solid;
+
+  border-width: 0.5;
+  border-color: white;
+  border-radius: 5px;
+}
+
+.titre-sous-menu {
+  background-color: rgb(200, 209, 212);
+
+  border-width: 0.5;
+  border-color: white;
+  border-radius: 5px;
+  align-self: center;
+  padding: 3px;
+}

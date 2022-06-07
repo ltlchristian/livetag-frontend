@@ -1,0 +1,13 @@
+.itemActivities {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.boutonvoir {
+  color: black;
+}
+.card-bg-color {
+  background-color: rgb(1, 80, 104);
+  color: white;
+}

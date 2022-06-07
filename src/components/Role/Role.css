@@ -1,0 +1,20 @@
+Button {
+  margin: 5px;
+}
+
+.github {
+  font-size: 30px;
+}
+
+.bouton {
+  text-decoration: none;
+  color: white;
+}
+.card-bg-color {
+  background-color: rgb(204, 225, 248);
+  color: black;
+}
+
+div.m-2 svg {
+  cursor: pointer;
+}

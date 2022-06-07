@@ -26,7 +26,7 @@ function App() {
   const { connected } = useAuth();
 
   return (
-    <body>
+    <div>
       <main className="site-content">
         <NavBar />
         <Routes>
@@ -65,7 +65,7 @@ function App() {
       <footer className="site-footer">
         <Footer />
       </footer>
-    </body>
+    </div>
   );
 }
 
